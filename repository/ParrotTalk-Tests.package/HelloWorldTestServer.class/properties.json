@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vat2",
+		"conn2",
+		"msg",
+		"conn2Closed" ],
+	"name" : "HelloWorldTestServer",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

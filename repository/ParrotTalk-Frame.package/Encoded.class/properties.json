@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Frame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Encoded",
+	"pools" : [
+		 ],
+	"super" : "PhaseHeader",
+	"type" : "normal" }

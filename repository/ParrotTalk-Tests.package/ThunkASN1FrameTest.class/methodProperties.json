@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildSamplePublicKey" : "HenryHouse 10/29/2017 08:42",
+		"printIAmEncodedBytes" : "HenryHouse 10/29/2017 08:46",
+		"testGiveInfo" : "HenryHouse 10/29/2017 08:42",
+		"testGo" : "HenryHouse 10/29/2017 05:54",
+		"testGoToo" : "HenryHouse 10/29/2017 05:55",
+		"testIAm" : "HenryHouse 10/29/2017 08:40",
+		"testIWant" : "HenryHouse 10/29/2017 05:52",
+		"testProtocolAccepted" : "HenryHouse 10/29/2017 05:52",
+		"testProtocolOffered" : "HenryHouse 10/29/2017 05:50",
+		"testReplyInfo" : "HenryHouse 10/29/2017 05:55" } }

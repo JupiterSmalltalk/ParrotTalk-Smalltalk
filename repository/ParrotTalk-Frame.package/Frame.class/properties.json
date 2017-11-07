@@ -1,0 +1,16 @@
+{
+	"category" : "ParrotTalk-Frame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"frameSpecification",
+		"header",
+		"payload" ],
+	"name" : "Frame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

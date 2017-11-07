@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"headerType" : "zzz 9/29/2017 19:50",
+		"initializeASN1Types" : "zzz 9/20/2017 17:17" },
+	"instance" : {
+		"domain" : "rww 12/21/2015 09:43",
+		"domain:" : "rww 12/21/2015 09:43",
+		"initialize" : "rww 9/29/2016 12:02",
+		"publicKey" : "rww 12/21/2015 09:43",
+		"publicKey:" : "rww 12/21/2015 09:43",
+		"vatId" : "rww 12/21/2015 09:43",
+		"vatId:" : "rww 12/21/2015 09:43" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"newConnection:port:" : "zzz 9/18/2017 04:00",
+		"newSocket:" : "acp 5/27/2017 14:11" },
+	"instance" : {
+		"close" : "acp 5/27/2017 22:40",
+		"doesPop" : "acp 5/27/2017 22:41",
+		"doesPush" : "acp 5/27/2017 22:41",
+		"downThunk" : "acp 5/27/2017 15:28",
+		"getData" : "zzz 10/23/2017 11:35",
+		"initializeOnSocket:" : "acp 5/27/2017 22:39",
+		"isConnected" : "acp 5/27/2017 08:26",
+		"run" : "acp 5/27/2017 22:39",
+		"serverLoop" : "zzz 10/23/2017 11:05",
+		"stack" : "acp 5/27/2017 22:39" } }

@@ -1,0 +1,4 @@
+thunk - accessing
+upThunk
+
+	^ upThunk

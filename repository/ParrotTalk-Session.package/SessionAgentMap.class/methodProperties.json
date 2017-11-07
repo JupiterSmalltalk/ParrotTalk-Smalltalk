@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"new" : "zzz 10/22/2017 16:21",
+		"newProtocol:encoder:" : "zzz 10/22/2017 16:21",
+		"newProtocols:encoders:" : "zzz 10/22/2017 13:06" },
+	"instance" : {
+		"buildEncoder" : "zzz 10/22/2017 16:08",
+		"buildProtocol" : "zzz 10/22/2017 16:07",
+		"cryptoProtocolNames" : "zzz 10/22/2017 15:51",
+		"cryptoProtocols" : "zzz 10/22/2017 13:08",
+		"dataEncoderNames" : "zzz 10/22/2017 15:50",
+		"dataEncoders" : "zzz 10/22/2017 13:07",
+		"initializeOnEncoders:protocols:" : "zzz 10/22/2017 16:31",
+		"lookupEncoderByName:" : "zzz 10/22/2017 16:06",
+		"lookupProtocolByName:" : "zzz 10/22/2017 16:07",
+		"selectedEncoderName:" : "acp 5/27/2017 15:47",
+		"selectedProtocolName:" : "acp 5/27/2017 15:47" } }

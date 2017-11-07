@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ParrotTalkExamplePlaceholder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

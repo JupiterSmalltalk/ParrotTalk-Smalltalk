@@ -1,0 +1,4 @@
+derived
+remoteVatId
+
+	^ farKey vatId

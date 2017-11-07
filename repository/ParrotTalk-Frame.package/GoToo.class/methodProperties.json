@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"headerType" : "zzz 9/29/2017 19:51",
+		"initializeASN1Types" : "zzz 9/20/2017 17:18" },
+	"instance" : {
+		"cryptoProtocol" : "rww 10/7/2016 01:43",
+		"cryptoProtocol:" : "rww 10/7/2016 01:43",
+		"cryptoProtocols" : "rww 2/2/2017 12:05",
+		"dataEncoder" : "rww 10/27/2016 02:02",
+		"dataEncoder:" : "rww 10/27/2016 02:02",
+		"dataEncoders" : "rww 2/2/2017 12:06",
+		"diffieHellmanParameter" : "rww 12/21/2015 09:45",
+		"diffieHellmanParameter:" : "rww 12/21/2015 09:45",
+		"initialize" : "acp 5/5/2017 19:35",
+		"printOn:" : "rww 12/28/2016 09:06",
+		"signature" : "rww 12/21/2015 09:45",
+		"signature:" : "acp 5/22/2017 02:17",
+		"takeSignature" : "acp 5/22/2017 02:17" } }

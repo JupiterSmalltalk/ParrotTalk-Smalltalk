@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"newName:cipherClass:keySize:blockSize:hasIvParameter:" : "acp 5/27/2017 22:52",
+		"protocolName" : "acp 5/27/2017 15:46" },
+	"instance" : {
+		"blockSize" : "acp 5/27/2017 15:46",
+		"blockSize:" : "acp 5/27/2017 15:46",
+		"cipherClass" : "acp 5/27/2017 15:46",
+		"cipherClass:" : "acp 5/27/2017 22:49",
+		"cipherOnSecretBytes:incoming:mode:" : "Alpha 6/23/2017 12:43",
+		"computeIv:incoming:mode:" : "Alpha 6/23/2017 12:44",
+		"computeIvHash:" : "HenryHouse 10/31/2017 10:39",
+		"hasIvParameter" : "acp 5/27/2017 15:46",
+		"hasIvParameter:" : "acp 5/27/2017 15:46",
+		"initialize" : "Aloha 6/22/2017 09:11",
+		"initializeName:cipherClass:keySize:blockSize:hasIvParameter:" : "Alpha 6/23/2017 12:38",
+		"keySize" : "acp 5/27/2017 15:46",
+		"keySize:" : "acp 5/27/2017 15:46",
+		"makeThunkOn:incoming:" : "Alpha 6/23/2017 12:40",
+		"protocolName" : "acp 5/27/2017 15:46",
+		"protocolName:" : "acp 5/27/2017 15:46" } }

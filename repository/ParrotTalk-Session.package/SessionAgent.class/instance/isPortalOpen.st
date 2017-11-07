@@ -1,0 +1,4 @@
+querying
+isPortalOpen
+
+	^ connectionQueue notNil

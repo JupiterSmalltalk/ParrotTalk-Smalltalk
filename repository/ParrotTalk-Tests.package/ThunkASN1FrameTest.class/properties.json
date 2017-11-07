@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ThunkASN1FrameTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

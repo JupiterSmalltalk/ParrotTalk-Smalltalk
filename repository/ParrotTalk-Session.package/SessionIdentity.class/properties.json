@@ -1,0 +1,18 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rww 10/13/2016 23:12",
+	"instvars" : [
+		"vatId",
+		"publicKey",
+		"privateKey",
+		"socketAddress",
+		"nickname" ],
+	"name" : "SessionIdentity",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

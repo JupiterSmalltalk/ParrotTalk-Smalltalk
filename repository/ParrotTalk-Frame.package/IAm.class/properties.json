@@ -1,0 +1,16 @@
+{
+	"category" : "ParrotTalk-Frame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"vatId",
+		"domain",
+		"publicKey" ],
+	"name" : "IAm",
+	"pools" : [
+		 ],
+	"super" : "PhaseHeader",
+	"type" : "normal" }

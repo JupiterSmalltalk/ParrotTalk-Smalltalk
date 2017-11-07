@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stack",
+		"serverProcess",
+		"socket",
+		"primitiveFailedError" ],
+	"name" : "SocketThunk",
+	"pools" : [
+		 ],
+	"super" : "ThunkLayer",
+	"type" : "normal" }

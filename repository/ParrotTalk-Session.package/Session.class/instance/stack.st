@@ -1,0 +1,4 @@
+derived
+stack
+
+	^ stack

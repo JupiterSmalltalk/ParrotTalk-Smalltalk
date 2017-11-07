@@ -1,0 +1,4 @@
+derived
+remotePublicKey
+
+	^ farKey publicKey

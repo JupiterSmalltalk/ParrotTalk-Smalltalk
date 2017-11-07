@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"close" : "acp 5/27/2017 08:14",
+		"doesPop" : "acp 5/27/2017 08:39",
+		"doesPop:" : "acp 5/27/2017 08:39",
+		"doesPush" : "acp 5/27/2017 08:39",
+		"doesPush:" : "acp 5/27/2017 08:39",
+		"downThunk" : "acp 5/27/2017 08:12",
+		"downThunk:" : "acp 5/27/2017 08:12",
+		"headerMakerThunk" : "acp 5/27/2017 08:12",
+		"headerMakerThunk:" : "acp 5/27/2017 08:12",
+		"initialize" : "acp 5/27/2017 08:46",
+		"isConnected" : "acp 5/27/2017 08:15",
+		"run" : "acp 5/27/2017 08:14",
+		"shutdown" : "acp 5/27/2017 08:15",
+		"upThunk" : "acp 5/27/2017 08:12",
+		"upThunk:" : "acp 5/27/2017 08:12" } }

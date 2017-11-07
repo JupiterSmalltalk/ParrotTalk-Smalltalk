@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"portalMap",
+		"localMessagesToSign",
+		"remoteMessagesToSign",
+		"diffieHellman" ],
+	"name" : "SecurityOps",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

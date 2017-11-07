@@ -1,0 +1,18 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protocolName",
+		"cipherClass",
+		"keySize",
+		"blockSize",
+		"hasIvParameter" ],
+	"name" : "CipherThunkMaker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

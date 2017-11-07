@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Frame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuplicateConnection",
+	"pools" : [
+		 ],
+	"super" : "PhaseHeader",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"close" : "acp 5/28/2017 00:59",
+		"doesPop" : "Alpha 6/24/2017 03:06",
+		"doesPopPayload" : "zzz 10/22/2017 20:06",
+		"doesPopReplace" : "zzz 10/22/2017 20:03",
+		"doesPush" : "Alpha 6/24/2017 03:06",
+		"downThunk" : "Alpha 6/24/2017 03:06",
+		"downcall:" : "Alpha 6/24/2017 12:28",
+		"headerMakerThunk" : "Alpha 6/24/2017 03:07",
+		"install" : "Alpha 6/23/2017 15:37",
+		"isConnected" : "acp 5/28/2017 00:59",
+		"pushHeaderThunk" : "zzz 10/22/2017 20:06",
+		"run" : "acp 5/28/2017 00:59",
+		"shutdown" : "acp 5/28/2017 00:59",
+		"upThunk" : "Alpha 6/24/2017 03:05",
+		"upcall:" : "zzz 10/22/2017 20:05" } }

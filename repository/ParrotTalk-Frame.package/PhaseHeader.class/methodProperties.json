@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"headerType" : "rww 12/20/2015 17:32",
+		"initialize" : "acp 5/27/2017 05:06",
+		"initializeASN1Types" : "zzz 9/20/2017 17:20",
+		"readFrom:" : "zzz 10/22/2017 19:58" },
+	"instance" : {
+		"asAsn1DerBytes" : "hh 8/27/2017 07:04",
+		"asFrame" : "Aloha-9 6/22/2017 06:13",
+		"asSignableBytes" : "Alpha 6/23/2017 12:37",
+		"headerType" : "rww 12/20/2015 20:23",
+		"recomputeSpec" : "acp 5/22/2017 02:16",
+		"storeAsn1DerBytesOn:" : "hh 8/30/2017 15:48" } }

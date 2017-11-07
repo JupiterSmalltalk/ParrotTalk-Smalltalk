@@ -1,0 +1,4 @@
+accessing
+ivSequence
+
+	^ ivSequence

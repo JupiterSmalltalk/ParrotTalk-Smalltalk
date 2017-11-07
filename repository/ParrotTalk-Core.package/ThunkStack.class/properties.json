@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"properties" ],
+	"name" : "ThunkStack",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "variable" }

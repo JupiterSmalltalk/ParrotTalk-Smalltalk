@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"close" : "acp 5/27/2017 15:17",
+		"doesPop" : "acp 5/27/2017 15:57",
+		"doesPush" : "acp 5/27/2017 15:57",
+		"headerMakerThunk" : "acp 5/27/2017 15:23",
+		"isConnected" : "acp 5/27/2017 15:17",
+		"run" : "acp 5/27/2017 15:17",
+		"shutdown" : "acp 5/27/2017 15:17" } }

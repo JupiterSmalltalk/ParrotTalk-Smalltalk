@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"portalKey",
+		"portalMap",
+		"connectionQueue",
+		"process" ],
+	"name" : "SessionAgent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"headerType" : "rww 4/13/2016 03:47",
+		"initializeASN1Types" : "Aloha 6/22/2017 06:35" },
+	"instance" : {
+		"initialize" : "acp 5/27/2017 18:13",
+		"mac" : "rww 12/30/2015 16:52",
+		"mac:" : "rww 12/30/2015 16:53" } }

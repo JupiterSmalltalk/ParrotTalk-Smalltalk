@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"headerType" : "zzz 9/29/2017 19:51",
+		"initializeASN1Types" : "zzz 10/4/2017 11:17" },
+	"instance" : {
+		"buildOverWireEncoders" : "rww 10/27/2016 01:59",
+		"buildOverWireProtocols" : "rww 10/7/2016 01:41",
+		"cryptoProtocols" : "rww 10/7/2016 01:40",
+		"cryptoProtocols:" : "rww 10/7/2016 01:40",
+		"dataEncoders" : "rww 10/27/2016 01:58",
+		"dataEncoders:" : "rww 10/27/2016 01:58",
+		"initialize" : "zzz 9/15/2017 05:24",
+		"printOn:" : "rww 12/28/2016 09:23" } }

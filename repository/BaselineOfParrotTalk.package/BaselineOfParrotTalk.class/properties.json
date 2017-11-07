@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfParrotTalk",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfParrotTalk",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

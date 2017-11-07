@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"example" : "acp 5/21/2017 17:41",
+		"example2" : "acp 5/21/2017 17:41",
+		"example3" : "acp 5/21/2017 17:41",
+		"example4" : "acp 5/22/2017 00:32",
+		"initialState:" : "" },
+	"instance" : {
+		"compile" : "rww 6/29/2010 05:10",
+		"initialState:" : "rww 6/29/2010 05:10",
+		"newState:" : "",
+		"newState:default:" : "acp 5/21/2017 16:38",
+		"printElementsOn:" : "",
+		"resolve:" : "acp 5/22/2017 00:09" } }

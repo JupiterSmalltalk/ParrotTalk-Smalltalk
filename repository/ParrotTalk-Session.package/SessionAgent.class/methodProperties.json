@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"initialize" : "Aloha-9 6/22/2017 05:31",
+		"newOnKey:map:" : "acp 5/27/2017 08:54",
+		"shutDown:" : "Aloha-9 6/22/2017 05:31",
+		"startUp:" : "zzz 10/22/2017 16:32" },
+	"instance" : {
+		"connectToKey:" : "acp 5/27/2017 09:14",
+		"connectionRunning:" : "acp 5/27/2017 09:10",
+		"doAwaitInbound" : "Alpha 6/24/2017 01:37",
+		"finalize" : "acp 5/27/2017 08:54",
+		"initializeOnKey:map:" : "rww 5/29/2017 22:22",
+		"isPortalOpen" : "Alpha 6/24/2017 01:37",
+		"localIdentity" : "acp 5/27/2017 08:54",
+		"newInboundSocket:" : "Aloha 6/22/2017 06:27",
+		"portalKey" : "acp 5/27/2017 08:54",
+		"portalMap" : "acp 5/27/2017 08:54",
+		"printOn:" : "Alpha 6/24/2017 01:37",
+		"start" : "rww 5/29/2017 22:22",
+		"startServices" : "HenryHouse 11/2/2017 12:53",
+		"stop" : "acp 5/27/2017 08:54",
+		"stopServices" : "zzz 10/22/2017 04:27",
+		"vatId" : "acp 5/27/2017 08:54" } }

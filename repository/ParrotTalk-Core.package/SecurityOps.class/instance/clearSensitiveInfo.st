@@ -1,0 +1,4 @@
+action
+clearSensitiveInfo
+
+	self initialize.

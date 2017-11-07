@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"initialState" ],
+	"name" : "ProtocolStateCompiler",
+	"pools" : [
+		 ],
+	"super" : "IdentityDictionary",
+	"type" : "variable" }

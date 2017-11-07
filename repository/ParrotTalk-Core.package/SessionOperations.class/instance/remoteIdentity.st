@@ -1,0 +1,4 @@
+derived
+remoteIdentity
+
+	^ session remoteIdentity

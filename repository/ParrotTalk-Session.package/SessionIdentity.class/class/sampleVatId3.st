@@ -1,0 +1,34 @@
+examples
+sampleVatId3
+	"SessionIdentity sampleVatId3"
+	"
+		| id |
+		id := self newRandomKeysOnPort: 10013.
+		((PBESHA1Encryptor newPassword: 'sampleVatId3') encrypt: id asByteArray) base64Encoded.
+	"
+
+	| pbeString id |
+	pbeString := '1T8FxoIEWT4AABOIAAABAAAQyp42F0oWgsyBIJkaXyb+5wQQVzPYczeUg+Wv+lofRZP80VjK
+nOIQjvQEDSOrlux8q5CRfH/nigsReqGu56v6xjAhLsRWjey33voscZOvvTSIVO3pOYp7/G5O
+CZB3x92xyyG+XrG33aqg2k55/hSzrk+NTgI8MQ13oZKd3C+gdSOorkU3i/ArTTuHLyoU8cXu
+VrndDmBQUzyltESPDsI3ddeeVGaxMs8g43oYN0Zvoo7Nn8hcjN9qIEMKHzERePG4/il+q2Ub
+qlhpZFhqQSNHmF/WiRn4O6D5mwzh3UPmOnVqSk0MpsRobloEapHhqysvOaC/BBqz+dBTGX3t
+8mvKtdbkeAKlTrLQ6n7nafhTDPExnuDr6REQ9EE+obetUbU1fVhla10TaNjYt/pdDzyl1RoS
+qUOK8EF49hyVZJ21fheX39alM8OZF2U3VNV18I1ahlYHNMLraajA7ApLumLQ0qB2XwLw4Xnp
+Bp2Ne1KJH54VvfsU7B1P2Bic0+zu3VbYFDabJDIIb7iL1PdwyMOHYKNKcdgGN4V6YHSFT3L/
+a314GP6iJMvgeG/lSct+naJKVJA+W5/2arIjVdHjvCxDKj0MedQNfeLgI7hw/L499xPSTdXF
+wbFlkadmPBmozq6MS3Ke3lYTgnuoAQN5wXnBL/PWke/kAmpOScrFU0SIIDHNPr7UUFEQ2zhb
+yp1Q7DZYI0RHT9BlW2ryx1bhvACXQNRFvtffwurxdTDISr2SRywdSGbh+zpU44TvpwXJ20Iv
+eKQlDq37sKLuth6vDLntTaG+sIOT3Kk2pey4As1ldn81JEw/HfJ55o7jakN7qKKeH9/AiGBS
+tufeVlgz2AqF6yNwxhu/M4jUs5L0FlcitHYDAZBaCz9qe8mLeIA8zDULaa528KWq1tzvnLVl
+Q7eHpmdU+7mbJl/fDQvRBXJZ20d68k9ujtbokxtOa/nFIGKnCnAZdQKOSn7Duw2aaG1ssT3Y
+UxyNoIw2rgAFboyekqY4xhZjrLer54DVfwGCVP+1LDxF8GCamJFDzKiSQDAqORnZSjO5LOqs
+hotT7/0+ep2kYso8VolxXkHUthcn6dCRgYfR8WD6O2DGo94I25CxbhdFRCAnE12m8mvNKVuC
+xCcCa8iqNn4RmtLFXNQ3W4rpljfNCwYj8ZFlKUAEhSN2NB/OmgMAMU/lzcvM+ZwQ3CTmmIzR
+fGTUkDBARRPdugZRSc4MvDnv+V8FPjvCPT/odiy01WdvVeOWhQTjjiENedxxvgZbqedpN/n/
+Q+yDs/A41nVnohWiUF6/SwF1oVmDhoEkKRwWwrG1hdPmLt8gS6L273zPNLnJPiPas9yUquq3
+SEZDiPYmtoWtrh+gex6sHC5Ho+qQ/g8dNcE4R4wO6ehIUFOYPS+uKUTcjBZnM3+X6UE='.
+
+	id := self fromByteArray: ((PBESHA1Encryptor newPassword: 'sampleVatId3') decrypt: pbeString base64Decoded).
+	id socketAddress: (InetSocketAddress newOnPort: id port).
+	^ id

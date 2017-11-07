@@ -1,0 +1,4 @@
+accessing
+diffieHellmanParameter
+
+	^ diffieHellmanParameter

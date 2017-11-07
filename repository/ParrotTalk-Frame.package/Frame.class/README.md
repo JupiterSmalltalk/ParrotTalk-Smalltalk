@@ -1,0 +1,14 @@
+Frame onHeader: ProtocolOffered new payload: #[].
+Frame onHeader: ProtocolAccepted new payload: #[].
+Frame onHeader: Ping new payload: #[].
+Frame onHeader: Pong new payload: #[].
+Frame onHeader: Data new payload: #[].
+Frame onHeader: NotMe new payload: #[].
+Frame onHeader: DuplicateConnection new payload: #[].
+Frame onHeader: IWant new payload: #[].
+Frame onHeader: IAm new payload: #[].
+Frame onHeader: GiveInfo new payload: #[].
+Frame onHeader: ReplyInfo new payload: #[].
+Frame onHeader: Go new payload: #[].
+Frame onHeader: GoToo new payload: #[].
+Frame onHeader: FECHeader new payload: #[].

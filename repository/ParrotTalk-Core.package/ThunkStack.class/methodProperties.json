@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"on:" : "acp 5/27/2017 15:35" },
+	"instance" : {
+		"downcall:from:" : "zzz 10/23/2017 11:06",
+		"head" : "acp 5/27/2017 09:21",
+		"install" : "acp 5/27/2017 09:22",
+		"issConnected" : "acp 5/27/2017 22:09",
+		"pop" : "HenryHouse 10/22/2017 03:13",
+		"properties" : "acp 5/27/2017 09:21",
+		"propertyAt:" : "acp 5/27/2017 09:21",
+		"propertyAt:put:" : "acp 5/27/2017 09:21",
+		"push:" : "HenryHouse 10/22/2017 03:13",
+		"run" : "acp 5/27/2017 09:21",
+		"shutdown" : "acp 5/27/2017 09:21",
+		"stop" : "acp 5/27/2017 09:21",
+		"tail" : "acp 5/27/2017 09:21",
+		"upcall:from:" : "zzz 10/23/2017 11:06" } }

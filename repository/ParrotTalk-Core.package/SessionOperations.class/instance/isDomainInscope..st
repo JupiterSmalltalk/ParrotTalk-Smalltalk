@@ -1,0 +1,4 @@
+derived
+isDomainInscope: domain
+
+	^ true

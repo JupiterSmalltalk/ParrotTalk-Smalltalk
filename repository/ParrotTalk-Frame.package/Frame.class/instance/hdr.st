@@ -1,0 +1,4 @@
+accessing
+hdr
+
+	^ self header

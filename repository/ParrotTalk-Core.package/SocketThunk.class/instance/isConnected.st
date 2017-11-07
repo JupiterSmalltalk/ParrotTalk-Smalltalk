@@ -1,0 +1,4 @@
+protocol
+isConnected
+
+	^ socket isConnected

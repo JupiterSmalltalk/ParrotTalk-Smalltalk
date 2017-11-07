@@ -1,0 +1,19 @@
+{
+	"category" : "ParrotTalk-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conn1",
+		"conn2",
+		"msgMatch",
+		"dataReceived",
+		"conn1Closed",
+		"conn2Closed" ],
+	"name" : "ThunkHelloWorldTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

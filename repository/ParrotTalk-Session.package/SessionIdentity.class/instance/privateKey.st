@@ -1,0 +1,4 @@
+accessing
+privateKey
+
+	^ privateKey

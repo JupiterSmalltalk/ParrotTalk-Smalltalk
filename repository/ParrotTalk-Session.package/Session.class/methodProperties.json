@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"connectToFarKey:portal:" : "acp 5/27/2017 23:00",
+		"new" : "acp 5/27/2017 09:13",
+		"onSource:farKey:portal:" : "acp 5/27/2017 09:18" },
+	"instance" : {
+		"answer" : "acp 5/27/2017 14:08",
+		"call" : "zzz 10/23/2017 11:03",
+		"close" : "Alpha 6/26/2017 05:12",
+		"doesPop" : "acp 5/27/2017 16:25",
+		"farKey" : "acp 5/27/2017 09:13",
+		"flush" : "acp 5/27/2017 09:13",
+		"initializeOnSource:farKey:portal:" : "hh 7/8/2017 23:26",
+		"isConnected" : "acp 5/27/2017 14:08",
+		"isExpectingGoTooOrConnected" : "acp 5/27/2017 09:16",
+		"localVatId" : "acp 5/27/2017 09:13",
+		"nearKey" : "acp 5/27/2017 09:13",
+		"ops" : "acp 5/27/2017 14:08",
+		"portal" : "acp 5/27/2017 09:13",
+		"remotePublicKey" : "acp 5/27/2017 09:13",
+		"remotePublicKey:" : "acp 5/27/2017 09:13",
+		"remoteVatId" : "acp 5/27/2017 09:13",
+		"remoteVatId:" : "acp 5/27/2017 09:13",
+		"send:" : "Aloha 6/22/2017 07:03",
+		"shutdown" : "acp 5/27/2017 14:09",
+		"stack" : "Alpha 6/26/2017 07:30",
+		"upThunk" : "zzz 10/22/2017 04:26" } }

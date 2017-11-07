@@ -1,0 +1,4 @@
+accessing
+localIdentity
+
+	^self portalKey

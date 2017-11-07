@@ -1,0 +1,14 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ThunkRoot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

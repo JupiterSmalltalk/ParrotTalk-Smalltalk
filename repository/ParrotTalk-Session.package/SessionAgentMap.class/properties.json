@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedProtocolName",
+		"selectedEncoderName",
+		"cryptoProtocols",
+		"dataEncoders" ],
+	"name" : "SessionAgentMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

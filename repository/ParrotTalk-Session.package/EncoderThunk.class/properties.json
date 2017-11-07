@@ -1,0 +1,16 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"encoderName",
+		"materializeThunk",
+		"serializeThunk" ],
+	"name" : "EncoderThunk",
+	"pools" : [
+		 ],
+	"super" : "ThunkRoot",
+	"type" : "normal" }

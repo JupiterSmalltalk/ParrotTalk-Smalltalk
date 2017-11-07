@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newName:serializeThunk:materializeThunk:" : "zzz 10/22/2017 20:18" },
+	"instance" : {
+		"downcall:" : "zzz 10/22/2017 20:25",
+		"encoderName" : "acp 5/27/2017 23:40",
+		"initializeName:serializeThunk:materializeThunk:" : "zzz 10/22/2017 20:18",
+		"makeThunkOnFarKey:" : "HenryHouse 11/6/2017 16:54",
+		"materializeThunk" : "Alpha 6/24/2017 04:42",
+		"serializeThunk" : "Alpha 6/24/2017 04:42",
+		"upcall:" : "zzz 10/22/2017 20:25" } }

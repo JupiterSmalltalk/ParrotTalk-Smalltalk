@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Session",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stack",
+		"farKey",
+		"map",
+		"portal" ],
+	"name" : "Session",
+	"pools" : [
+		 ],
+	"super" : "ThunkLayer",
+	"type" : "normal" }

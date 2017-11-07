@@ -1,0 +1,17 @@
+{
+	"category" : "ParrotTalk-Frame",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cryptoProtocol",
+		"dataEncoder",
+		"diffieHellmanParameter",
+		"signature" ],
+	"name" : "GoToo",
+	"pools" : [
+		 ],
+	"super" : "PhaseHeader",
+	"type" : "normal" }

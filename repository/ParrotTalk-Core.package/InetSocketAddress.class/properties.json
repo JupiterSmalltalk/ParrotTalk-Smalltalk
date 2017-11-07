@@ -1,0 +1,15 @@
+{
+	"category" : "ParrotTalk-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rww 10/14/2002 09:25",
+	"instvars" : [
+		"host",
+		"port" ],
+	"name" : "InetSocketAddress",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
