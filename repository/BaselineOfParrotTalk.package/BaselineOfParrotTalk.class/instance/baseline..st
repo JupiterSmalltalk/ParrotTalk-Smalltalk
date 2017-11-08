@@ -36,4 +36,4 @@ baseline: spec
         group: 'Core' with: #('ParrotTalk-Session');
         group: 'Tests' with: #('ParrotTalk-Tests');
         group: 'Examples' with: #('ParrotTalk-Examples');
-        group: 'default' with: #('Examples') ]
+        group: 'default' with: #('Examples' 'Tests') ]
