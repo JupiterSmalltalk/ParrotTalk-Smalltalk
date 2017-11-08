@@ -30,7 +30,8 @@ baseline: spec
           with: [ spec requires: #('ParrotTalk-Frame') ];
         package: 'ParrotTalk-Tests'
           with: [ spec requires: #('ParrotTalk-Session') ];
-        package: 'ParrotTalk-Examples'.
+        package: 'ParrotTalk-Examples'
+          with: [ spec requires: #('ParrotTalk-Session') ].
       spec
         group: 'Core' with: #('ParrotTalk-Session');
         group: 'Tests' with: #('ParrotTalk-Tests');
