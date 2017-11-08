@@ -8,7 +8,18 @@ baseline: spec
         project: 'Cryptography'
         with: [ 
           spec
-            package: 'Cryptography-zzz.111.mcz';
+            className: 'Cryptography';
+            versionString: 'HenryHouse.113';
+            repository: 'http://www.squeaksource.com/Cryptography' ] ].
+  spec
+    for: #'pharo'
+    do: [ 
+      spec
+        project: 'Cryptography'
+        with: [ 
+          spec
+            className: 'Cryptography';
+            versionString: 'HenryHouse.113';
             repository: 'http://www.squeaksource.com/Cryptography' ] ].
   spec
     for: #'gemstone'
@@ -23,7 +34,10 @@ baseline: spec
     for: #'common'
     do: [ 
       spec
-        package: 'ParrotTalk-Core' with: [ spec requires: #('Cryptography') ];
+        package: 'ParrotTalk-Core'
+          with: [ 
+              "spec requires: #('Cryptography')"
+               ];
         package: 'ParrotTalk-Frame'
           with: [ spec requires: #('ParrotTalk-Core') ];
         package: 'ParrotTalk-Session'
