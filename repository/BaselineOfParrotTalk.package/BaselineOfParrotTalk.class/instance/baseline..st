@@ -8,8 +8,7 @@ baseline: spec
         project: 'Cryptography'
         with: [ 
           spec
-            className: 'Cryptography';
-            versionString: 'HenryHouse.113';
+            package: 'Cryptography-HenryHouse.113';
             repository: 'http://www.squeaksource.com/Cryptography' ] ].
   spec
     for: #'pharo'
@@ -18,8 +17,7 @@ baseline: spec
         project: 'Cryptography'
         with: [ 
           spec
-            className: 'Cryptography';
-            versionString: 'HenryHouse.113';
+            package: 'Cryptography-HenryHouse.113';
             repository: 'http://www.squeaksource.com/Cryptography' ] ].
   spec
     for: #'gemstone'
