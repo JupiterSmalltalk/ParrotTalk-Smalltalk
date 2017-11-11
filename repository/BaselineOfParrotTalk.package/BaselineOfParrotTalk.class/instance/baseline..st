@@ -5,20 +5,14 @@ baseline: spec
     for: #'squeak'
     do: [ 
       spec
-        project: 'Cryptography'
-        with: [ 
-          spec
-            package: 'Cryptography-HenryHouse.113';
-            repository: 'http://www.squeaksource.com/Cryptography' ] ].
+        package: 'Cryptography'
+        with: [ spec repository: 'http://www.squeaksource.com/Cryptography' ] ].
   spec
     for: #'pharo'
     do: [ 
       spec
-        project: 'Cryptography'
-        with: [ 
-          spec
-            package: 'Cryptography-HenryHouse.113';
-            repository: 'http://www.squeaksource.com/Cryptography' ] ].
+        package: 'Cryptography'
+        with: [ spec repository: 'http://www.squeaksource.com/Cryptography' ] ].
   spec
     for: #'gemstone'
     do: [ 
